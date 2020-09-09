@@ -1,6 +1,14 @@
 ## Welcome to GitHub Pages
 
-```{r}
+
+---
+title: "Test"
+author: "Mikkel Boye Rasmussen"
+output: html_document
+---
+
+
+```{r, echo = true}
 mean(3,5)
 ```
 
