@@ -5,6 +5,23 @@ Hello.
 &nbsp;
 &nbsp;
 
+### Less Brief introduction:
+Hello, I'm Mikkel Boye Rasmussen, former math student and hence already know a little programming  
+I have experience with the programs/languages: Maple, R-studio(R-markdown), ruby, javascript and python.  
+Currently my sleep schedule is about as reliable as the McDonalds icecream machines, I recently got a  
+puppy, so if I look upset.. I'm either sleepy.. or you know... upset.. Generally i tend to have a  
+very positive outlook on life, however immense amounts of sarcasm and self-irony might make this  
+difficult to believe.
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+### My regular type of email correspondences:
+<img src="https://i.imgur.com/Pnf1D3X.png" width="800">
+
+
+
 ### Dad Jokes
 
 1. kids are delivered by stork... Fat kids are delivered by crane
