@@ -2,6 +2,17 @@
 2.
 
 
+```{R}
+
+<<test>>=
+
+mean(3+5)
+
+@
+
+```
+
+
 ```markdown
 
 Syntax highlighted code block
