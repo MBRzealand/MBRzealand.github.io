@@ -1,6 +1,9 @@
 ### Brief Introduction:
 Hello.
 
+&nbsp;
+&nbsp;
+&nbsp;
 
 ### Dad Jokes
 
@@ -13,6 +16,10 @@ Hello.
 4. you gotta hand it to blind prostitutes.
 
 5. i got the word "yakuza" mistaken with "jacuzzi" now i'm in hot water with the japanese mafia.
+
+&nbsp;
+&nbsp;
+&nbsp;
 
 ### Longer Jokes
 
@@ -34,6 +41,9 @@ The fuming lawyer pays him, and then comes back a week later determined to get b
 **Lawyer (staring at the note):** "*But this is $20, not $100!!*"  
 **Chinese:** "*Congrats, your eyesight is restored. Give me $20*"
 
+&nbsp;
+&nbsp;
+&nbsp;
 
 ### Memes
 <p float="left">
