@@ -1,9 +1,6 @@
-1. kids are delivered by stork... Fat kids are delivered by crane
+1. kids are delivered by stork... Fat kids are delivered by crane \n
 2.
 
-```{r}
-3+5
-```
 
 ```markdown
 
