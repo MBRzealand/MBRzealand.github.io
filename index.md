@@ -16,15 +16,15 @@
 
 ### Memes
 <p float="left">
-<img src="https://i.redd.it/ldy66vo1y3m51.jpg" width="300">
-<img src="https://i.redd.it/b538xk4kr2m51.jpg" width="300">
-<img src="https://i.redd.it/80yx74nyo2m51.png" width="300">
+<img src="https://i.redd.it/ldy66vo1y3m51.jpg" width="220">
+<img src="https://i.redd.it/b538xk4kr2m51.jpg" width="220">
+<img src="https://i.redd.it/80yx74nyo2m51.png" width="220">
 </p>
 
 <p float="left">
-<img src="https://i.redd.it/cxc9xjgk14m51.jpg" width="300">
-<img src="https://i.redd.it/7dmz0q02h4m51.jpg" width="300">
-<img src="https://i.redd.it/dgv24b0o94m51.jpg" width="300">
+<img src="https://i.redd.it/cxc9xjgk14m51.jpg" width="220">
+<img src="https://i.redd.it/7dmz0q02h4m51.jpg" width="220">
+<img src="https://i.redd.it/dgv24b0o94m51.jpg" width="220">
 </p>
 
 
