@@ -1,6 +1,4 @@
 
-
-
 ### Dad Jokes
 
 1. kids are delivered by stork... Fat kids are delivered by crane
@@ -16,30 +14,15 @@
 ### Longer Jokes
 
 
-
 ### Memes
 
-![meme1](https://i.redd.it/ldy66vo1y3m51.jpg)
+<img src="https://i.redd.it/ldy66vo1y3m51.jpg" width="300">
 
-![meme2](https://i.redd.it/b538xk4kr2m51.jpg)
+<img src="https://i.redd.it/b538xk4kr2m51.jpg" width="300">
+
+<img src="https://i.redd.it/80yx74nyo2m51.png" width="300">
+
+<img src="https://i.redd.it/cxc9xjgk14m51.jpg" width="300">
 
 
-```markdown
 
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-
-```
