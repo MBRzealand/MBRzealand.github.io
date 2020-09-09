@@ -1,16 +1,5 @@
-1. kids are delivered by stork... Fat kids are delivered by crane \n
+1. kids are delivered by stork... Fat kids are delivered by crane<br/>
 2.
-
-
-```{R}
-
-<<test>>=
-
-mean(3+5)
-
-@
-
-```
 
 
 ```markdown
